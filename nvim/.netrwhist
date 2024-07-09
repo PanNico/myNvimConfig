@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Qos_Multiverse/AutohyperlaneProbs/qos'
+let g:netrw_dirhist_3='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin'
+let g:netrw_dirhist_2='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin/files'
+let g:netrw_dirhist_1='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin'
+let g:netrw_dirhist_0='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin/files'
+let g:netrw_dirhist_9='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin'
+let g:netrw_dirhist_8='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin/files'
+let g:netrw_dirhist_7='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin'
+let g:netrw_dirhist_6='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin/files'
+let g:netrw_dirhist_5='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Autoadmin_Multiverse/FwDeadlock/autoadmin'
